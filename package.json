@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://olhabondarenko64.github.io/shopware.github.io/",
+  "homepage": "https://olhabondarenko64.github.io/shopware/src",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OlhaBondarenko64/shopware.git"
